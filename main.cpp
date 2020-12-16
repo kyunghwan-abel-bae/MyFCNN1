@@ -12,7 +12,7 @@ int main()
 
     const int kTrainingCount = 500;
 
-    const D kLearningRate = 0.01;
+    const D kLearningRate = 0.02;
 
     // Create Input Vector
     VectorND<D> x(kNumInput);
